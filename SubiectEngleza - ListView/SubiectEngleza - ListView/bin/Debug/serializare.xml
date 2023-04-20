@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<Pista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <denumire>Bucuresti International Airport</denumire>
+  <listaZboruri>
+    <Zbor>
+      <nrZbor>4</nrZbor>
+      <destinatie>Bucuresti</destinatie>
+      <capacitate>7</capacitate>
+    </Zbor>
+    <Zbor>
+      <nrZbor>22</nrZbor>
+      <destinatie>Necunoscuta</destinatie>
+      <capacitate>12</capacitate>
+    </Zbor>
+  </listaZboruri>
+</Pista>

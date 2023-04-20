@@ -1,0 +1,12 @@
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\bin\Debug\Subiect_PAW_engleza.exe.config
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\bin\Debug\Subiect_PAW_engleza.exe
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\bin\Debug\Subiect_PAW_engleza.pdb
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.csproj.AssemblyReference.cache
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.csproj.SuggestedBindingRedirects.cache
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.Properties.Resources.resources
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.csproj.GenerateResource.cache
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.csproj.CoreCompileInputs.cache
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.exe
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.pdb
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.Form1.resources
+D:\C#\Subiect_PAW_engleza\Subiect_PAW_engleza\obj\Debug\Subiect_PAW_engleza.EditForm.resources

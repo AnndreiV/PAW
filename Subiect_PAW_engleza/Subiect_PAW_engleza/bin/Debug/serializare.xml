@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Pista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <listaZboruri>
+    <Zbor>
+      <nrZbor>12</nrZbor>
+      <destinatie>Spania</destinatie>
+      <capacitate>10</capacitate>
+    </Zbor>
+  </listaZboruri>
+  <denumirePista>Necunoscuta</denumirePista>
+</Pista>
